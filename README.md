@@ -1,6 +1,6 @@
 # Hey, I'm Lucas 👋
 
-**Graphics Programmer | Real-Time Rendering | GPU Optimization**
+**Graphics Programmer & Game Developer | Real-Time Rendering | GPU Optimization**
 
 I build high-performance rendering systems and gameplay mechanics.
 
